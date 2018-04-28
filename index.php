@@ -20,7 +20,7 @@
 	<header class="header">
 		<div class="slider text-center">
 			<div class="intro">
-				<h2>Application developer &amp; web developer</h2>
+				<h2>Application developer</h2>
 			</div>
 			<a href="#" class="btn btn-light btn-md button" role="button" aria-pressed="true">Learn more</a>
 		</div>

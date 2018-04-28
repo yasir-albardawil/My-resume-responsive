@@ -32,9 +32,9 @@ body {
 
 .header .slider .intro {
 	margin: 0 auto;
-	color: #FFF;
-	border-top: 3px solid #FFF;
-	border-bottom: 4px solid #FFF;
+	color: #22313F;
+	border-top: 3px solid #252E30;
+	border-bottom: 4px solid #252E30;
 	width: 600px
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .header .slider  .btn-light {
-	color: #FFF;
+	color: #22313F;
 	font-weight: bold;
 	background-color: transparent;
 	margin-top: 30px
