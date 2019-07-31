@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 [Bootstrap 4](https://getbootstrap.com) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web. 
 
 ## Live preview
-[My resume responsive](https://yasir-albardawil.github.io/MyResumeResponsive/)
+[My resume responsive](https://competent-murdock-500a8f.netlify.com/files/Yasir's%20Resume.pdf)
 ## Author
 
 **Yasir Albardawil** - *Initial work* - [yasir-albardawil](https://github.com/yasir-albardawil)
